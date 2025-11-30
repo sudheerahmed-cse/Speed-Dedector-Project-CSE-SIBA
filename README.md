@@ -1,5 +1,6 @@
 # Speed-Dedector-Project-CSE-SIBA
 A speed detection system that identifies vehicle speed using sensors and calculates overspeeding in real time. The project helps monitor traffic, improve road safety, and generate alerts when speed limits are exceeded. Built using core concepts of CSE such as embedded systems, data processing, and automation.
+
 🚗⚡ Speed Detector System
 
 A Computer Science & Engineering project that detects vehicle speed in real time, compares it with predefined speed limits, and alerts when overspeeding is detected. Designed to improve traffic monitoring, road safety, and automated speed regulation.
